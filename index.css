@@ -53,3 +53,15 @@ footer{
     height:10vh;
     padding: 20px;
 }
+
+#easy{
+    color: green;
+}
+
+#normal{
+    color: #FFFFFF;
+}
+
+#hard{
+    color: red;
+}
